@@ -5,4 +5,4 @@ Bem-vindo ao repositório oficial do site da **Anabella**, uma modelo fictícia 
 ## 🔧 Tecnologias Utilizadas
 
 - **HTML5**  
-- **CSS3
+- **CSS3**
